@@ -5,6 +5,13 @@ A document Q&amp;A system using FastAPI, Streamlit, and LangChain. Upload multip
 
 An interactive document question-answering system built with FastAPI, Streamlit, and LangChain. The application allows users to upload multiple documents (PDF, DOCX, TXT) and ask questions about their content, leveraging GPT models for accurate responses.
 
+## System Interface
+![Diagram Description](DFD/RAG_System.png)
+
+## Flow Diagram  
+![Diagram Description](DFD/dfd_rag.png)
+
+
 ## Key Features
 - Multi-document upload and processing
 - Real-time Q&A with source attribution
@@ -35,3 +42,4 @@ An interactive document question-answering system built with FastAPI, Streamlit,
 - Source document tracking and verification
 
 ## Flow Diagram  
+![Diagram Description](DFD/RAG_System.png)
