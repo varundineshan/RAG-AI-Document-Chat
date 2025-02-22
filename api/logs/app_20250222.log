@@ -1,0 +1,4 @@
+{"timestamp": "2025-02-22 12:30:40,276", "level": "INFO", "message": "FastAPI application initializing", "session_id": "init", "question": "N/A", "answer": "N/A", "file_name": "N/A"}
+{"timestamp": "2025-02-22 12:30:40,282", "level": "INFO", "message": "FastAPI application starting up", "session_id": "startup", "question": "N/A", "answer": "N/A", "file_name": "N/A"}
+{"timestamp": "2025-02-22 12:31:02,356", "level": "INFO", "message": "Received chat request", "session_id": "7af4cf05-fa1a-4382-99b9-71be598331a3", "question": "which company is in india", "answer": "N/A", "file_name": "N/A"}
+{"timestamp": "2025-02-22 12:31:02,404", "level": "ERROR", "message": "Error in chat: No documents found in the knowledge base. Please upload a document first.", "session_id": "7af4cf05-fa1a-4382-99b9-71be598331a3", "question": "which company is in india", "answer": "No documents found in the knowledge base. Please upload a document first.", "file_name": "N/A"}
