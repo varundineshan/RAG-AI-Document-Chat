@@ -35,3 +35,4 @@ An interactive document question-answering system built with FastAPI, Streamlit,
 - Source document tracking and verification
 
 ## Flow Diagram  
+![Diagram Description](DFD/RAG_System.png)
